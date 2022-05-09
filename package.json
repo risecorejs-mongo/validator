@@ -1,18 +1,18 @@
 {
-  "name": "@risecorejs/validator",
+  "name": "@risecorejs-mongo/validator",
   "version": "2.0.2",
   "description": "",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/risecorejs/validator.git"
+    "url": "git+https://github.com/risecorejs-mongo/validator.git"
   },
   "author": "Amenov Abdulsalam <risecorejs@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/risecorejs/validator/issues"
+    "url": "https://github.com/risecorejs-mongo/validator/issues"
   },
-  "homepage": "https://github.com/risecorejs/validator#readme",
+  "homepage": "https://github.com/risecorejs-mongo/validator#readme",
   "dependencies": {
     "libphonenumber-js": "^1.9.8",
     "lodash": "^4.17.21",
